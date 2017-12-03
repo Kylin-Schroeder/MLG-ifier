@@ -1,27 +1,27 @@
 {
-	"name": "MLG-ifier",
-    "short_name": "MLG-ifier",
-    "author": "Leonard Chan",
-	"description":"Le Reddit Armie is here to hand out fedoras and MLG pwn sum cheeky scrubs-m80s",
+	"name": "Meme-ifier",
+    "short_name": "Meme-ifier",
+    "author": "Kylin Schroeder and Leonard Chan",
+	"description":"This extension creates a ton of memes with the click of a button. Want to make your friends laugh? No problem! Just go to a website, click the button in your extensions bar, then you're good to go!",
 	"version":"3.3.41",
 	"manifest_version":2,
     "homepage_url": "https://github.com/PiJoules/MLG-ifier",
         
     "icons": {
-        "128": "images/fedora.png"
+        "128": "images/mem.png"
     },
 
 	"permissions": ["http://*/*", "https://*/*", "activeTab", "tabs"],
 
 	"browser_action": {
-		"default_icon": "images/fedora.png",
-		"default_title": "MLG-ifiy"
+		"default_icon": "images/doggo.png",
+		"default_title": "Meme-ify"
 	},
 
 	"content_scripts": [
 		{
 			"matches": ["http://*/*", "https://*/*"],
-			"js": ["js/jquery.min.js", "js/lexer.js", "js/lexicon.js_", "js/POSTagger.js", "js/mlg-userscript.js"]
+			"js": ["js/jquery.min.js", "js/lexer.js", "js/lexicon.js_", "js/POSTagger.js"]
 		}
 	],
 
