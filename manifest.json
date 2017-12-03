@@ -2,7 +2,7 @@
 	"name": "Meme-ifier",
     "short_name": "Meme-ifier",
     "author": "Kylin Schroeder and Leonard Chan",
-	"description":"This extension creates a ton of memes with the click of a button. Want to make your friends laugh? No problem! Just go to a website, click the button in your extensions bar, then you're good to go!",
+	"description":"This extension creates a ton of memes with the click of a button.",
 	"version":"3.3.41",
 	"manifest_version":2,
     "homepage_url": "https://github.com/PiJoules/MLG-ifier",
