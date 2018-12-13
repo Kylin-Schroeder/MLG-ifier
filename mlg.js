@@ -69,11 +69,11 @@ var weedColors = [
 // word replacements
 // Penn Treebank POS tags: https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
 var treeBank = {
-	/* Adjectives */ "JJ": ["dank", "MLG", "euphoric", "( ͡° ͜ʖ ͡°)", "bestselling"],
-	/* Adjective, comparative */ "JJR": ["danker", "more MLG", "( ͡° ͜ʖ ͡°)"],
-	/* Adjective, superlative */ "JJS": ["dankinest", "MLG-inest", "( ͡° ͜ʖ ͡°)"],
-	/* Noun, singular */ "NN": ["dankineer", "pineapple", "Gurl", "m8", "m9", "m80", "parody", "subreddit", "meme", "scrub", "mountain dew", "weed", "blunt", "ebola", "fedora", "trilby", "9/11", "( ͡° ͜ʖ ͡°)", "johnbob", "9gag", "9gagger"],
-	/* Noun, plural */ "NNS": ["dankineers", "pineapples", "Gurlz", "m80s", "m89s", "memes", "scrubs", "doritos", "jimmies", "trilbies", "( ͡° ͜ʖ ͡°)", "johbobs", "9gaggers"],
+	/* Adjectives */ "JJ": ["dank", "epic", "cool", "( ͡° ͜ʖ ͡°)", "super epic mega cool"],
+	/* Adjective, comparative */ "JJR": ["more epic", "more cool", "( ͡° ͜ʖ ͡°)"],
+	/* Adjective, superlative */ "JJS": ["epic-nest", "epic-inest", "( ͡° ͜ʖ ͡°)"],
+	/* Noun, singular */ "NN": ["carl azuz", "kek", "meme lord", "oof", "ur mom", "doge boy", "super cool", "hit or miss", "meme", "i guess they never miss huh?", "you got a boyfriend? i bet he doesnt kiss ya ", "he gon find another girl and he wont miss ya", "he gonna skrt and hit the dab like wiz khalifa", "this aint it chief", "cuck", "aaaaa", "9/11", "( ͡° ͜ʖ ͡°)", "robloxkid40", "kek", "swagkid2008"],
+	/* Noun, plural */ "NNS": ["jeff bezos", "keks", "meme lords", "oofs", "ur moms", "doge boys", "supercools", "hit or miss", "i guess they never miss huh?", "trilbies", "( ͡° ͜ʖ ͡°)", "johbobs", "9gaggers"],
 	/* Proper noun, singular */ "NNP": ["Sp00nr", "Reddit", "Le Reddit Armie", "Snipars", "Vagabonds", "M'lady", "Good Sir", "9/11", "( ͡° ͜ʖ ͡°)", "Milton Dew", "Megatokyo", "Rush Limbaugh"],
 	/* Verb, past tense */ "VBD": ["rekt", "upboated", "rekm8ed", "rustled", "( ͡° ͜ʖ ͡°)", "robbled", "flustered"],
 	/* Verb, non-3rd person singular present */ "VBP": ["transl8", "feel", "upboat", "upvote", "rip", "rekm8", "rustle", "( ͡° ͜ʖ ͡°)", "robble", "fluster"],
